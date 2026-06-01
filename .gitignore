@@ -7,7 +7,6 @@ node_modules
 dist
 dist-electron
 .DS_Store
-.env 
 .claude/
 __pycache__/
 .codebuddy/
@@ -44,7 +43,6 @@ nul
 .idea/
 
 # editorconfig files
-.vscode/
 
 sandbox/
 
@@ -52,3 +50,4 @@ sandbox/
 **/**/post-commit
 openspec/
 .superpowers/
+config.bat

@@ -4,9 +4,9 @@
   "description": "Web search skill using Playwright-controlled browser for real-time information retrieval",
   "main": "dist/server/index.js",
   "scripts": {
-    "build": "tsc",
-    "start": "node dist/server/index.js",
-    "dev": "tsc && node dist/server/index.js"
+    "build": "node init && tsc",
+    "start": "node init && node dist/server/index.js",
+    "dev": "node init && tsc && node dist/server/index.js"
   },
   "keywords": [
     "lobsterai",
