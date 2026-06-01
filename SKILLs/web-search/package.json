@@ -5,8 +5,8 @@
   "main": "dist/server/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/server/index.js",
-    "dev": "tsc && node dist/server/index.js"
+    "start": "node api.js && node dist/server/index.js",
+    "dev": "node api.js && tsc && node dist/server/index.js"
   },
   "keywords": [
     "lobsterai",

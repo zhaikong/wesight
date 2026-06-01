@@ -322,6 +322,14 @@ Skills can be installed, enabled, disabled, deleted, and routed from the desktop
 - More visual inspection tools for long-running agent tasks
 - Skill marketplace updates, reviews, and version management
 
+## Community WeChat Group
+
+Scan the QR code below to join the WeSight WeChat group and talk with other builders. The QR code is valid until June 8, 2026; if it expires, follow the official account below to get the latest invite.
+
+<p align="center">
+  <img src="public/readme/community/wechat-group.jpg" alt="WeSight WeChat Group" width="320">
+</p>
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/wesight&type=Date)](https://star-history.com/#freestylefly/wesight&Date)
